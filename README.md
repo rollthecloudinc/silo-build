@@ -1,2 +1,0 @@
-# silo-build
-Build repo
